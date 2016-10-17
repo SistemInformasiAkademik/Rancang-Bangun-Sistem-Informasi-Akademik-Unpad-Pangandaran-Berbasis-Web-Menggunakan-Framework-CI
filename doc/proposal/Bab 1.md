@@ -34,6 +34,6 @@ Di dalam proposal ini membahas sistem informasi pengajuan proposal Unpad Pangand
 </p>
 <br><b>1.5 Jadwal Kegiatan Pengerjaan Proyek</b>
 <p>
-<img src="../../img/proposal/jadwal.PNG" width="500" height="300">
+<img src="https://github.com/SistemInformasiAkademik/Rancang-Bangun-Sistem-Informasi-Akademik-Unpad-Pangandaran-Berbasis-Web-Menggunakan-Framework-CI/blob/master/img/jawal%20p2.PNG" width="500" height="300">
 </p>
 <p align="center">Gambar 1.1 Jadwal Kegiatan</p>
