@@ -1,0 +1,5 @@
+  <h3 align="center">ABSTRAK</h3>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universitas sebagai suatu instansi di bidang pendidikan banyak melakukan pengolahan data dalam pengadministrasian data baik data nilai, mahasiswa, dosen, KRS,  jadwal matakuliah. Data-data tersebut dalam jumlah yang besar sehingga penyimpanan dan pengadministrasian harus dilakukan dengan baik. Dalam pengolahan data akademik kebanyakan Universitas menggunakan sistem pengolahan secara manual yaitu data yang ada berupa setumpuk kertas atau rekam yang disimpan dalam rak berkas. Sistem tersebut tentu saja mempunyai banyak kelemahan yang implikasinya adalah lemahnya administrasi, pemborosan tenaga, penyajian yang buruk, pelayanan yang kurang optimal, dan kualitas data yang rendah. Permasalahan yang dibahas adalah bagaimana langkah-langkah pembuatan Sistem Informasi Akademik yang tepat untuk Universitas Pangandaran menggunakan Framework Codegniter dan MySQL. Bagaimana cara kerja Sistem Informasi Akademik Unpad Pangandaran yang dihasilkan. 
+<br>
+<b>Kata Kunci : Unpad Pangandaran, Akademik, Framework Codeigniter</b>
+</p>
