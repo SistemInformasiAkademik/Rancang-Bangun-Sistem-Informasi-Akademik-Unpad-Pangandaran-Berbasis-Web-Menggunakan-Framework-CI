@@ -51,6 +51,7 @@ Deployment/physical diagram menggambarkan detail bagaimana komponen di-deploy da
 </p>
 <b>
 2.8	Sublime Texs 3</b>
+<img src="https://github.com/SistemInformasiAkademik/Rancang-Bangun-Sistem-Informasi-Akademik-Unpad-Pangandaran-Berbasis-Web-Menggunakan-Framework-CI/blob/master/img/sublime.PNG" width="500" height="300">
 <p align="justify">
 Sublime Text adalah teks editor berbasis Python, sebuah teks editor yang elegan, kaya akan fitur, cross-platform, mudah dan simpel yang cukup terkenal di kalangan pengembang, penulis, dan desainer. Para programmer biasanya menggunakan sublime Text untuk menyunting source code yang sedang ia kerjakan. Sampai saat ini Sublime Text sudah mencapai pada versi 3 Beta. [ Yusti, 2015]
 Berikut ini adalah beberapa kelebihan yang di milki Sublime Text:
@@ -62,13 +63,9 @@ Sublime Text mampu membuka dan mengedit sebuah file teks yang sangat besar tanpa
 Menyeret dan melepas file teks ke dalam editor akan membuka tab baru secara otomatis. Anda juga bisa menentukan lokasi tab pada saat menyeret file teks tersebut. 
 4.	Editor Sublime Text yang terpisah bisa di jadikan sebagai tab 
 Editor Sublime Text pada jendela terpisah bisa jadikan sebagai tab baru dengan cara di seret. Tampilan jendela dapat dibagi baik secara vertikal maupun horizontal.
-<img src="https://github.com/SistemInformasiAkademik/Rancang-Bangun-Sistem-Informasi-Akademik-Unpad-Pangandaran-Berbasis-Web-Menggunakan-Framework-CI/blob/master/img/sublime.PNG" width="500" height="300">
 </p>
 <b>
 2.9	Software yang digunakan<br>
-2.9.1	Sublime Text 3</b>
-<p align="center"><img src="../../img/proposal/sublime.PNG" width="300" height="200"> </p>
-<p align="center">Gambar 2.1 Sublime Text 3</p>
 <p align="justify">
 Sublime Text adalah teks editor berbasis Python, sebuah teks editor yang elegan, kaya akan fitur, cross-platform, mudah dan simpel yang cukup terkenal di kalangan pengembang, penulis, dan desainer. Para programmer biasanya menggunakan sublime Text untuk menyunting source code yang sedang ia kerjakan. Sampai saat ini Sublime Text sudah mencapai pada versi 3 Beta. [ Yusti, 2015]
 <br>
