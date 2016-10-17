@@ -16,6 +16,7 @@ Sistem informasi Akademik adalah Sistem yang menberikan layanan informasi yang b
 <p align="justify">
 Codeigniter adalah suatu framework yang telah dilengkapi dengan fasilitas yang memudahkan penggunanya untuk membuat aplikasi website. Misalnya saja dengan adanya fasilitas error reporting. Tetapi, fasilitas error reporting. Tetapi fasilitas ini juga dapat digunakan hacker untuk mengetahui kelemaham website kita pula, sehingga dengan berbekal kelemahan tersebut, system website kita dapat ditembus.
 CodeIigniter dibangun berbasis MVC yaitu (Models, View, Controller) yang memisahkan antara tampilan dan logic aplikasi. Models ¬adalah bagian yang betanggungjawab terhadap operasi database baik itu create, read, upadate dan delete berupa fungsi-fungsi operasional database yang dipanggil oleh controller. View adalah bagian menangani tampilan, bagian  inilah yang bertugas unutk mempresentasikan data kepada user berbentuk struktur HTML yang berisikan variable data yang dikirim oleh controller. Controller adalah bagian yang mengatur hubungan anatar model dan view. Terdiri dari fungsi-fungsi yang bersifat operasional logikal.
+<img src="https://github.com/SistemInformasiAkademik/Rancang-Bangun-Sistem-Informasi-Akademik-Unpad-Pangandaran-Berbasis-Web-Menggunakan-Framework-CI/blob/master/img/CI.PNG" width="500" height="300">
 </p>
 <b>
 2.5	Pengertian Bootstrap<br>
@@ -46,6 +47,7 @@ Activity diagram merupakan state diagram khusus, di mana sebagian besar state ad
 Component diagram menggambarkan struktur dan hubungan antar komponen piranti lunak, termasuk ketergantungan (dependency) di antaranya.  
 <b> 2.7.8	Deployment diagram. </b>
 Deployment/physical diagram menggambarkan detail bagaimana komponen di-deploy dalam infrastruktur sistem, di mana komponen akan terletak (pada mesin, server atau piranti keras apa), bagaimana kemampuan jaringan pada lokasi tersebut, spesifikasi server, dan hal-hal lain yang bersifat fisikal.
+<img src="https://github.com/SistemInformasiAkademik/Rancang-Bangun-Sistem-Informasi-Akademik-Unpad-Pangandaran-Berbasis-Web-Menggunakan-Framework-CI/blob/master/img/STAR%20UML.PNG" width="500" height="300">
 </p>
 <b>
 2.8	Sublime Texs 3</b>
@@ -60,6 +62,7 @@ Sublime Text mampu membuka dan mengedit sebuah file teks yang sangat besar tanpa
 Menyeret dan melepas file teks ke dalam editor akan membuka tab baru secara otomatis. Anda juga bisa menentukan lokasi tab pada saat menyeret file teks tersebut. 
 4.	Editor Sublime Text yang terpisah bisa di jadikan sebagai tab 
 Editor Sublime Text pada jendela terpisah bisa jadikan sebagai tab baru dengan cara di seret. Tampilan jendela dapat dibagi baik secara vertikal maupun horizontal.
+<img src="https://github.com/SistemInformasiAkademik/Rancang-Bangun-Sistem-Informasi-Akademik-Unpad-Pangandaran-Berbasis-Web-Menggunakan-Framework-CI/blob/master/img/sublime.PNG" width="500" height="300">
 </p>
 <b>
 2.9	Software yang digunakan<br>
