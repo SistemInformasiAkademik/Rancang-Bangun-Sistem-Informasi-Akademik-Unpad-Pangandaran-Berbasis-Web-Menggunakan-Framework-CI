@@ -29,6 +29,7 @@ MySql merupakan software yang tergolong database server dan bersifat opensource.
 </p>
 <b>2.7	Pengertian UML</b>
 <p align="justify">
+<img src="https://github.com/SistemInformasiAkademik/Rancang-Bangun-Sistem-Informasi-Akademik-Unpad-Pangandaran-Berbasis-Web-Menggunakan-Framework-CI/blob/master/img/STAR%20UML.PNG" width="500" height="300">
 Secara umum UML merupaka ‘bahasa’ untuk visualisasi, spesifikasi, konstruksi, serta dokumentasi. Dalam kerangka visualisasi, para pengembang menggunakan UML sebagai suatu cara untuk mengkomunikasikan idenya kepada para pemrogram serta calon pengguna sistem/ perangkat lunak.
 Dalam keangka spesifikasi, UML menyediakan model- model yang tepat, tidak mendua-arti (ambigu), serta lengkap. Secara khusus, UML menspesifikasi langkah- langkah penting dalam pengambilan keputusan analisis, perancangan, serta implementasi dalam sistem yang sangat bernuansa perangkat lunak. Dalam hal ini UML bukanlah merupakan bahasa pemrograman tetapi model- model yang tercipta berhubungan langsung dengan berbagai macam bahasa pemrograman berorientasi objek, seperti Java, Delphi, C++, Visual Basic, dan lain- lain. UML mendefinisikan diagram-diagram sebagai berikut :
 <b> 2.7.1	Use Case Diagram </b>
@@ -47,7 +48,6 @@ Activity diagram merupakan state diagram khusus, di mana sebagian besar state ad
 Component diagram menggambarkan struktur dan hubungan antar komponen piranti lunak, termasuk ketergantungan (dependency) di antaranya.  
 <b> 2.7.8	Deployment diagram. </b>
 Deployment/physical diagram menggambarkan detail bagaimana komponen di-deploy dalam infrastruktur sistem, di mana komponen akan terletak (pada mesin, server atau piranti keras apa), bagaimana kemampuan jaringan pada lokasi tersebut, spesifikasi server, dan hal-hal lain yang bersifat fisikal.
-<img src="https://github.com/SistemInformasiAkademik/Rancang-Bangun-Sistem-Informasi-Akademik-Unpad-Pangandaran-Berbasis-Web-Menggunakan-Framework-CI/blob/master/img/STAR%20UML.PNG" width="500" height="300">
 </p>
 <b>
 2.8	Sublime Texs 3</b>
