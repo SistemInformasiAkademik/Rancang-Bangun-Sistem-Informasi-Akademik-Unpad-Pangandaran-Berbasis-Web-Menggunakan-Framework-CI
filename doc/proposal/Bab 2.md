@@ -51,6 +51,7 @@ Deployment/physical diagram menggambarkan detail bagaimana komponen di-deploy da
 </p>
 <b>
 2.8	Sublime Texs 3</b>
+<br>
 <img src="https://github.com/SistemInformasiAkademik/Rancang-Bangun-Sistem-Informasi-Akademik-Unpad-Pangandaran-Berbasis-Web-Menggunakan-Framework-CI/blob/master/img/sublime.PNG" width="500" height="300">
 <p align="justify">
 Sublime Text adalah teks editor berbasis Python, sebuah teks editor yang elegan, kaya akan fitur, cross-platform, mudah dan simpel yang cukup terkenal di kalangan pengembang, penulis, dan desainer. Para programmer biasanya menggunakan sublime Text untuk menyunting source code yang sedang ia kerjakan. Sampai saat ini Sublime Text sudah mencapai pada versi 3 Beta. [ Yusti, 2015]
